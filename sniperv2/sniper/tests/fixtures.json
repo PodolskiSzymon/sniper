@@ -1,0 +1,511 @@
+{
+ "sidebar_active": {
+  "id": 9238023547,
+  "title": "Samsung pro ultimate 512GB",
+  "catalog_id": 3063,
+  "is_hidden": false,
+  "is_reserved": false,
+  "currency": "PLN",
+  "photos": [
+   {
+    "id": 39100124539,
+    "image_no": 1,
+    "width": 600,
+    "height": 800,
+    "dominant_color": "#9DA19D",
+    "dominant_color_opaque": "#E2E3E2",
+    "url": "https://images1.vinted.net/t/01_00aa0_x12a89U2qGnnRiBPaUktzcfF/f800/1782210267.webp?s=f815d8cffe94010c53f9fa580c472f3424172b1d",
+    "is_main": true,
+    "high_resolution": {
+     "id": "01_00aa0_x12a89U2qGnnRiBPaUktzcfF",
+     "timestamp": 1782210267,
+     "orientation": null
+    },
+    "is_suspicious": false,
+    "full_size_url": "https://images1.vinted.net/tc/01_00aa0_x12a89U2qGnnRiBPaUktzcfF/1782210267.webp?s=7ab89321622f25c5150bff67caaca3891b0aad16",
+    "is_hidden": false,
+    "extra": {}
+   },
+   {
+    "id": 39100124544,
+    "image_no": 2,
+    "width": 600,
+    "height": 800,
+    "dominant_color": "#7D8087",
+    "dominant_color_opaque": "#D8D9DB",
+    "url": "https://images1.vinted.net/t/03_01b11_91gVnbc6hZxWMu4MGkLzNTRJ/f800/1782210267.webp?s=9e7f45de997e7c5020da23dae20638fe889f0c07",
+    "is_main": false,
+    "high_resolution": {
+     "id": "03_01b11_91gVnbc6hZxWMu4MGkLzNTRJ",
+     "timestamp": 1782210267,
+     "orientation": null
+    },
+    "is_suspicious": false,
+    "full_size_url": "https://images1.vinted.net/tc/03_01b11_91gVnbc6hZxWMu4MGkLzNTRJ/1782210267.webp?s=cb5f40dd249c62c96183c8f5a9ed083d91c54f7f",
+    "is_hidden": false,
+    "extra": {}
+   },
+   {
+    "id": 39100124551,
+    "image_no": 3,
+    "width": 600,
+    "height": 800,
+    "dominant_color": "#B1B4AF",
+    "dominant_color_opaque": "#E8E9E7",
+    "url": "https://images1.vinted.net/t/06_0153a_EoDZ2BCbnpaEmWZwRzxqw3AG/f800/1782210267.webp?s=b2e6c1028b67f8706f2e2f7101d8b1e5e508e1f4",
+    "is_main": false,
+    "high_resolution": {
+     "id": "06_0153a_EoDZ2BCbnpaEmWZwRzxqw3AG",
+     "timestamp": 1782210267,
+     "orientation": null
+    },
+    "is_suspicious": false,
+    "full_size_url": "https://images1.vinted.net/tc/06_0153a_EoDZ2BCbnpaEmWZwRzxqw3AG/1782210267.webp?s=a8defac48709b26f910cdd6c160d56f65f8c5bc5",
+    "is_hidden": false,
+    "extra": {}
+   }
+  ],
+  "price": {
+   "amount": "261.08",
+   "currency_code": "PLN"
+  },
+  "reservation": null,
+  "conversion": {
+   "seller_price": "60.0",
+   "seller_currency": "EUR",
+   "buyer_currency": "PLN",
+   "fx_rounded_rate": "4.35",
+   "fx_base_amount": "1.0",
+   "fx_markup_rate": "0.012"
+  },
+  "instant_buy": true,
+  "can_buy": true,
+  "brand_dto": {
+   "id": 109048,
+   "title": "Samsung",
+   "slug": "samsung",
+   "path": "/brand/109048-samsung",
+   "is_favourite": false
+  },
+  "plugins": [
+   {
+    "name": "item_status",
+    "type": "item_status",
+    "section": "sidebar",
+    "data": {
+     "item_id": 9238023547,
+     "seller_id": 148344250,
+     "is_draft": false,
+     "is_reserved": false,
+     "is_hidden": false,
+     "is_closed": false,
+     "item_closing_action": null,
+     "stats_visible": true,
+     "item_alert": null,
+     "is_processing": false,
+     "promoted": false,
+     "transaction_permitted": true
+    },
+    "exposure": null,
+    "exposures": []
+   },
+   {
+    "name": "summary",
+    "type": "summary",
+    "section": "sidebar",
+    "data": {
+     "item_id": 9238023547,
+     "lines": [
+      {
+       "max_lines": 4,
+       "elements": [
+        {
+         "type": "text",
+         "value": "Samsung pro ultimate 512GB",
+         "style": "title"
+        }
+       ]
+      },
+      {
+       "max_lines": 4,
+       "elements": [
+        {
+         "type": "text",
+         "value": "Nowy z metką",
+         "style": "body"
+        },
+        {
+         "type": "navigational",
+         "value": "Samsung",
+         "uri": "vintedfr://items?brand_id=109048&order=relevance&search_start_type=item_page_summary_brand&portal=fr",
+         "url": "/brand/109048-samsung",
+         "id": 109048,
+         "code": "summary_brand",
+         "style": "body"
+        }
+       ]
+      }
+     ]
+    },
+    "exposure": null,
+    "exposures": [
+     {
+      "key": "item_page_summary_catalog_link",
+      "variant": "control",
+      "entity_type": "mkp_user",
+      "targeting_key": "194349400",
+      "reason": "SPLIT"
+     }
+    ]
+   },
+   {
+    "name": "attributes",
+    "type": "attributes",
+    "section": "sidebar",
+    "data": {
+     "attributes": [
+      {
+       "type": "favouritable",
+       "code": "brand",
+       "data": {
+        "title": "Marka",
+        "value": "Samsung",
+        "id": 109048,
+        "url": "/brand/109048-samsung",
+        "uri": "/brand/109048-samsung",
+        "is_favourite": false
+       }
+      },
+      {
+       "type": "faq",
+       "code": "status",
+       "data": {
+        "title": "Stan",
+        "value": "Nowy z metką",
+        "id": 50
+       }
+      },
+      {
+       "type": "text",
+       "code": "color",
+       "data": {
+        "title": "Kolor",
+        "value": "Biały"
+       }
+      },
+      {
+       "type": "text",
+       "code": "upload_date",
+       "data": {
+        "title": "Dodane",
+        "value": "tygodnia"
+       }
+      }
+     ],
+     "item_id": 9238023547,
+     "section_title": "Szczegóły",
+     "is_expanded": false,
+     "primary_attributes_count": 3
+    },
+    "exposure": null,
+    "exposures": [
+     []
+    ]
+   },
+   {
+    "name": "description",
+    "type": "description",
+    "section": "sidebar",
+    "data": {
+     "section_title": "Opis",
+     "description": "Naujas, nenaudotas.",
+     "item_id": 9238023547,
+     "localization": "manual",
+     "is_localized": false,
+     "max_lines": 4,
+     "is_expanded": false
+    },
+    "exposure": null,
+    "exposures": []
+   },
+   {
+    "name": "user_info_header",
+    "type": "user_info_header",
+    "section": "sidebar",
+    "data": {
+     "item_id": 9238023547,
+     "seller_id": 148344250,
+     "name": "skestenyte.ska",
+     "feedback_count": 7,
+     "feedback_reputation": 1.0,
+     "badges": [],
+     "user_info": [
+      {
+       "icon": "Clock16",
+       "text": "Ostatnie logowanie: 4 godz.",
+       "key": "last-logged-in"
+      }
+     ],
+     "follow_action_visible": true,
+     "business": false,
+     "is_favourite": false
+    },
+    "exposure": null,
+    "exposures": []
+   }
+  ],
+  "seller_id": 148344250,
+  "business": false,
+  "is_hated": false,
+  "hates_you": false,
+  "code": 0
+ },
+ "sidebar_sold": {
+  "id": 9272936873,
+  "title": "Karta pamięci",
+  "catalog_id": 3063,
+  "is_hidden": false,
+  "is_reserved": false,
+  "currency": "PLN",
+  "photos": [
+   {
+    "id": 39251012928,
+    "image_no": 1,
+    "width": 600,
+    "height": 800,
+    "dominant_color": "#6B6262",
+    "dominant_color_opaque": "#D3D0D0",
+    "url": "https://images1.vinted.net/t/05_015d6_L2diXqoShVNJV2WgpMKRa5Z4/f800/1782654903.webp?s=806f4b4f45d80ded752c3a23a40f6d750a9e2fb8",
+    "is_main": true,
+    "high_resolution": {
+     "id": "05_015d6_L2diXqoShVNJV2WgpMKRa5Z4",
+     "timestamp": 1782654903,
+     "orientation": null
+    },
+    "is_suspicious": false,
+    "full_size_url": "https://images1.vinted.net/tc/05_015d6_L2diXqoShVNJV2WgpMKRa5Z4/1782654903.webp?s=d81c09be1a5ff51056f8fafba8f14d90a56939f2",
+    "is_hidden": false,
+    "extra": {}
+   },
+   {
+    "id": 39251012936,
+    "image_no": 2,
+    "width": 600,
+    "height": 800,
+    "dominant_color": "#8B8585",
+    "dominant_color_opaque": "#DCDADA",
+    "url": "https://images1.vinted.net/t/05_003ec_2XBn4d2Q89UmozCKYv2kXPdt/f800/1782654903.webp?s=6086e6e7b656d2236c776c6fe3ba10c7636afd0c",
+    "is_main": false,
+    "high_resolution": {
+     "id": "05_003ec_2XBn4d2Q89UmozCKYv2kXPdt",
+     "timestamp": 1782654903,
+     "orientation": null
+    },
+    "is_suspicious": false,
+    "full_size_url": "https://images1.vinted.net/tc/05_003ec_2XBn4d2Q89UmozCKYv2kXPdt/1782654903.webp?s=81222a72ddb5b091773399ebdcac21bced50553c",
+    "is_hidden": false,
+    "extra": {}
+   }
+  ],
+  "price": {
+   "amount": "25.0",
+   "currency_code": "PLN"
+  },
+  "reservation": null,
+  "conversion": null,
+  "instant_buy": false,
+  "can_buy": false,
+  "brand_dto": {
+   "id": 3720583,
+   "title": "goodram",
+   "slug": "goodram",
+   "path": "/brand/3720583-goodram",
+   "is_favourite": false
+  },
+  "plugins": [
+   {
+    "name": "item_status",
+    "type": "item_status",
+    "section": "sidebar",
+    "data": {
+     "item_id": 9272936873,
+     "seller_id": 170581459,
+     "is_draft": false,
+     "is_reserved": false,
+     "is_hidden": false,
+     "is_closed": true,
+     "item_closing_action": "sold",
+     "stats_visible": false,
+     "item_alert": null,
+     "is_processing": false,
+     "promoted": false,
+     "transaction_permitted": true
+    },
+    "exposure": null,
+    "exposures": []
+   },
+   {
+    "name": "summary",
+    "type": "summary",
+    "section": "sidebar",
+    "data": {
+     "item_id": 9272936873,
+     "lines": [
+      {
+       "max_lines": 4,
+       "elements": [
+        {
+         "type": "text",
+         "value": "Karta pamięci",
+         "style": "title"
+        }
+       ]
+      },
+      {
+       "max_lines": 4,
+       "elements": [
+        {
+         "type": "text",
+         "value": "Nowy z metką",
+         "style": "body"
+        },
+        {
+         "type": "navigational",
+         "value": "goodram",
+         "uri": "vintedfr://items?brand_id=3720583&order=relevance&search_start_type=item_page_summary_brand&portal=fr",
+         "url": "/brand/3720583-goodram",
+         "id": 3720583,
+         "code": "summary_brand",
+         "style": "body"
+        }
+       ]
+      }
+     ]
+    },
+    "exposure": null,
+    "exposures": [
+     {
+      "key": "item_page_summary_catalog_link",
+      "variant": "control",
+      "entity_type": "mkp_user",
+      "targeting_key": "194349400",
+      "reason": "SPLIT"
+     }
+    ]
+   },
+   {
+    "name": "attributes",
+    "type": "attributes",
+    "section": "sidebar",
+    "data": {
+     "attributes": [
+      {
+       "type": "favouritable",
+       "code": "brand",
+       "data": {
+        "title": "Marka",
+        "value": "goodram",
+        "id": 3720583,
+        "url": "/brand/3720583-goodram",
+        "uri": "/brand/3720583-goodram",
+        "is_favourite": false
+       }
+      },
+      {
+       "type": "faq",
+       "code": "status",
+       "data": {
+        "title": "Stan",
+        "value": "Nowy z metką",
+        "id": 50
+       }
+      },
+      {
+       "type": "text",
+       "code": "color",
+       "data": {
+        "title": "Kolor",
+        "value": "Czarny"
+       }
+      },
+      {
+       "type": "text",
+       "code": "upload_date",
+       "data": {
+        "title": "Dodane",
+        "value": "2 dni"
+       }
+      }
+     ],
+     "item_id": 9272936873,
+     "section_title": "Szczegóły",
+     "is_expanded": false,
+     "primary_attributes_count": 3
+    },
+    "exposure": null,
+    "exposures": [
+     []
+    ]
+   },
+   {
+    "name": "description",
+    "type": "description",
+    "section": "sidebar",
+    "data": {
+     "section_title": "Opis",
+     "description": "Karta pamięci goodram 64gb, nowa nieużywana, nie pasowała do aparatu",
+     "item_id": 9272936873,
+     "localization": "none",
+     "is_localized": false,
+     "max_lines": 4,
+     "is_expanded": false
+    },
+    "exposure": null,
+    "exposures": []
+   },
+   {
+    "name": "user_info_header",
+    "type": "user_info_header",
+    "section": "sidebar",
+    "data": {
+     "item_id": 9272936873,
+     "seller_id": 170581459,
+     "name": "zuziakarol",
+     "feedback_count": 64,
+     "feedback_reputation": 1.0,
+     "badges": [],
+     "user_info": [
+      {
+       "icon": "Clock16",
+       "text": "Ostatnie logowanie: 15 godz.",
+       "key": "last-logged-in"
+      }
+     ],
+     "follow_action_visible": true,
+     "business": false,
+     "is_favourite": false
+    },
+    "exposure": null,
+    "exposures": []
+   }
+  ],
+  "seller_id": 170581459,
+  "business": false,
+  "is_hated": false,
+  "hates_you": false,
+  "code": 0
+ },
+ "shipping_active": {
+  "shipping_details": {
+   "pickup_only": false,
+   "multiple_shipping_options_available": true,
+   "free_shipping": false,
+   "discount": null,
+   "price": {
+    "amount": 13.27,
+    "currency_code": "PLN"
+   }
+  },
+  "code": 0
+ }
+}
